@@ -1,0 +1,6 @@
+import cn.hutool.core.lang.caller.StackTraceCaller;
+public class FunctionUse2502 {
+public void funcUse() {
+StackTraceCaller stacktracecaller = new StackTraceCaller();
+}
+}
